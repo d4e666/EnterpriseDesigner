@@ -2,12 +2,13 @@
 
 The goal of this project is to give enterprises a tool to manage and track what their enterprise is doing in regards to project/program implementation
 
-From the top down the following goals are set:
+From the top down the following goals are set so far:
 
-1. An executives should be able to manage their portfolio (and only the info they need wihout having to worry about details, and presented in documents=templates)
-2. A program manager should be able to see the projects he has under his wings and get the overview he needs without having to interrogate his staff to get the data he needs (e.g. an analyst updates a required budget and the PM should see this immediately and be warned about the change applicibal to his level (don't inform the for each $)
-3. An architect should be able to layout the solution he envisions and be able to map this to he benefits/costs he forsees within the same application
-4. Scrum masters should be able to divide the requested features and create/update the PBI within the used system like GitHub actions, Devops or otehr software used by developers
+1. An Executive should be able to manage their portfolio (and only the info they need without having to worry about details, and presented in documents=templates)
+2. A program manager should be able to see the projects he has under his wings and get the overview he needs without having to interrogate his staff to get the data he needs (e.g. an analyst updates a required budget and the PM should see this immediately and be warned about the change applicible to his level (don't inform him for each $)
+3. An architect should be able to layout the solution he envisions and be able to map this to the benefits/costs he forsees within the same application
+4. Scrum masters should be able to divide the requested features and create/update the PBI within the used system like GitHub actions, Devops or other software used by developers
+5. any additional goals can be set down the road as the solution progresses (the ultimate goal is to beat Enterprise Archtiect and extend further)
 
 # Getting Started
 
